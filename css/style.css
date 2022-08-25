@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Source+Sans+Pro&display=swap');
+.nav-bar{
+    background-color: white;
+}
+.project-body{
+    background: url(../images/comp\ lady.jpg)
+}
+.project-body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-bar img{
+    width: 9%;
+    height: 70%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nav-div{
+    display: flex;
+}
+.nav-tech{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 11px;
+}
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list{
+    display: inline-flex;
+    gap: 0px;
+    list-style-type: none;
+    margin-top: 25px;
+}
+.nav-li a{
+    font-size: larger;
+    text-decoration: none;
+    margin-right: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: blue;
+}
+.icons{
+    color: white;
+}
+.main-body{
+    color: white;
+    display: flex;
+}
+.java{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+.main-pg{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.explore{
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.main-list{
+    list-style-type: none;
+    margin-right: 100px;
+    text-align: right;
+}
+.main-sub{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 30px;
+}
+.main-input{
+    background-color: white;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 320px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.main-input input{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.main-input button{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(71, 71, 243);
+    border: 0ch;
+    color: white;
+}
+.main-enrol{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 100%;
+}
+
